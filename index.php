@@ -2,7 +2,7 @@
 <head></head>
 <body>
 <?php
-  echo "Hola Mundo cruel";
+  echo "Hola Mundo";
 ?>
 </body>
 </html>
